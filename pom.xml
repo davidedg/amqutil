@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
   <repositories>
      <repository>
-        <id>jboss-eap-repository-group</id>
+        <id>redhat-ga-repository-group</id>
         <name>RedHat-GA Maven Repository</name>
         <url>https://maven.repository.redhat.com/ga/</url>
         <layout>default</layout>
