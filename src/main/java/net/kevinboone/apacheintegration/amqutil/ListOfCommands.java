@@ -39,6 +39,7 @@ static List<Cmd> listCmds()
   list.add (new CmdHelp());
   list.add (new CmdList());
   list.add (new CmdManual());
+  list.add (new CmdPing());
   list.add (new CmdProduce());
   list.add (new CmdPublish());
   list.add (new CmdShow());
